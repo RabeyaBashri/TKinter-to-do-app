@@ -14,8 +14,6 @@ A modular To-Do application built with Python and Tkinter.
 
 - Automated reminder pop-up notifications
 
-- 
-
 ## Usage
 
 Run the main GUI application (example):
